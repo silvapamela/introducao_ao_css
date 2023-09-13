@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+    background-size: 100%;
+    color: black;
+}
+
+#principal {
+    margin: auto;
+    width: 60%;
+    padding: 40px;
+    background-image: linear-gradient(to left,  #660707, #7e1515, #a31111);
+    border-radius: 2%;
+}
+
+header {
+    background-color: rgba(206, 101, 87, 0.342);
+    padding: 1rem;
+}
+
+h1 {
+    color: #cabebe;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    border-color: #631b1b;
+}
